@@ -128,3 +128,15 @@
         font-size: 45px;
     }
  }
+
+ @media screen and (max-width:460px){
+    .form1,.h2Contact {
+        width: 100%;
+    }
+    .h2Contact{
+        font-size: 35px;
+    }
+    .subInput1,.subInput2,.subInput3,.subTextarea {
+       width: 330px;
+    }
+}

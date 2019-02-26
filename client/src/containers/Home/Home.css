@@ -189,3 +189,9 @@ margin: 0;
             font-size: 16px;
         }
     }
+
+    @media screen and (max-width:460px){
+        .nav-link{
+            font-size: 12px;
+        }
+    }

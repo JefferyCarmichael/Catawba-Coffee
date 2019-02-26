@@ -123,8 +123,8 @@
         @media screen and (max-width: 576px){
 
             .owner {
-                height: 385px;
-                width: 275px;
+                height: 375px;
+                width: 265px;
                 margin-left: 22px;
                 margin-bottom: 10px;
              }
@@ -134,5 +134,14 @@
          }
          .aboutUs {
              margin-left: 35px;
+         }
+    }
+
+    @media screen and (max-width:460px){
+        .owner {
+            height: 295px;
+            width: 195px;
+            margin-left: 22px;
+            margin-bottom: 10px;
          }
     }

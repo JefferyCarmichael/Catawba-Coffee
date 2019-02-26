@@ -59,7 +59,7 @@ The footer is branded with the company logo.  The address, phone number and stor
 * React-photo-gallery   6.1.7 
 * React-router-dom   4.3.1 
 * React-scripts   1.1.4 
-
+* Heroku
 ---
 ### **Web Site Url:**
   *https://catawbacoffeeco.herokuapp.com/*

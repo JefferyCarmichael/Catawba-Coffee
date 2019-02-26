@@ -88,3 +88,27 @@ ul p {
         margin-left: -20px;
     }
  }
+
+ @media screen and (max-width:460px){
+     .h1Menu{
+        font-size: 25px;
+        color:rgb(235, 209, 161);
+
+     }
+    .h2Menu{
+        font-size: 14px;
+        margin-left: 5px;
+    }
+
+    h4{
+        margin-left: -37px;
+        font-size: 12px;
+    }
+
+    ul p {
+        font-size: 12px;
+        margin-left: -35px;
+        color:rgb(235, 210, 165);
+        text-shadow: 2px 4px 5px rgba(49, 48, 48, 0.952);
+    }
+}
