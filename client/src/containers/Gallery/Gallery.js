@@ -91,4 +91,3 @@ const MyGallery = props => (
 
 
 export default MyGallery;
-// End of Gallery
