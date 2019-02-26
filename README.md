@@ -13,7 +13,7 @@ ___
 ## **Web Site Layout:**
 
 ### **Home Page**
-![Home Page](https://raw.githubusercontent.com/oscarsolorzano/Project_3/master/client/src/images/cchome.png)
+![Home Page](/client/src/images/cchome.png)
 
 ### **About**
 The About page gives information about owner and Catawba Coffee.
@@ -23,18 +23,18 @@ The About page gives information about owner and Catawba Coffee.
 
 The Gallery page is used to show pictures of recent events.
 
-![Gallery](https://raw.githubusercontent.com/oscarsolorzano/Project_3/master/client/src/images/ccgallery.png)
+![Gallery](/client/src/images/ccgallery.png)
 
 
 ### **Menu**
 
 The Menu page is used to show current beverages and prices.
-![Menu](https://raw.githubusercontent.com/oscarsolorzano/Project_3/master/client/src/images/ccmenu.png)
+![Menu]/client/src/images/ccmenu.png)
 
 ### **Events**
 
 The Events page lists music events hosted at the coffee shop.
-![Events](https://raw.githubusercontent.com/oscarsolorzano/Project_3/master/client/src/images/ccevents.png)
+![Events]/client/src/images/ccevents.png)
 
 ### **Contact Page**
 Customers can submit requests and comments via email.
@@ -62,7 +62,7 @@ The footer is branded with the company logo.  The address, phone number and stor
 * Heroku
 ---
 ### **Web Site Url:**
-  *https://catawbacoffeeco.herokuapp.com/*
+  *https://catawba.herokuapp.com/*
 
 ### **Git Hub :**
 *https://github.com/JefferyCarmichael/Project_3*
